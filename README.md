@@ -22,7 +22,6 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Sung98&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Sung98&show_icons=true&theme=radical)
 </div>
 <!--
 **Mr-Sung98/Mr-Sung98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
